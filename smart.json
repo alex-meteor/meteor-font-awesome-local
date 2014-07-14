@@ -1,0 +1,8 @@
+{
+  "name": "font-awesome-local",
+  "description": "Latest version of Font-Awesome, packaged for Meteor, Hosted locally",
+  "homepage": "https://github.com/pfafman/meteor-font-awesome-local",
+  "author": "Tim Pfafman",
+  "version": "4.1.0",
+  "git": "https://github.com/pfafman/meteor-font-awesome-local.git"
+}
